@@ -1,0 +1,10 @@
+.idea/
+
+*.xml
+*.iml
+*.ipynb_checkpoints
+*.ipynb
+
+venv/
+
+*.p
